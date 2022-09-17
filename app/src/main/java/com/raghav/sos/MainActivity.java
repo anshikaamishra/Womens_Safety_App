@@ -1,4 +1,4 @@
-package com.raghav.sos;
+package com.sos;
 
 import android.Manifest;
 import android.annotation.SuppressLint;
