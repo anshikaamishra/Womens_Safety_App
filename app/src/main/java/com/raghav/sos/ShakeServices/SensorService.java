@@ -1,4 +1,4 @@
-package com.raghav.sos.ShakeServices;
+package com.ShakeServices;
 
 import android.annotation.SuppressLint;
 import android.app.Notification;
