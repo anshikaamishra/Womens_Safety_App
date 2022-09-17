@@ -1,4 +1,4 @@
-package com.raghav.sos;
+package com.sos;
 
 import android.content.Intent;
 import android.media.MediaPlayer;
