@@ -1,4 +1,4 @@
-package com.ShakeServices;
+package com.raghav.sos.ShakeServices;
 
 import android.content.BroadcastReceiver;
 import android.content.Context;
