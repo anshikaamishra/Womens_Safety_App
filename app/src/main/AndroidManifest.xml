@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.raghav.sos">
+
+    <uses-permission android:name="android.permission.READ_CONTACTS" />
+    <uses-permission android:name="android.permission.VIBRATE" />
+    <uses-permission android:name="android.permission.SEND_SMS" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
+    <uses-permission android:name="android.permission.ACCESS_BACKGROUND_LOCATION" />
+    <uses-permission android:name="android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/splash"
+        android:label="Women Safety App"
+        android:roundIcon="@drawable/splash"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.SOS">
+        <activity
+            android:name=".About"
+            android:exported="true" />
+
+        <receiver
+            android:name=".ShakeServices.ReactivateService"
+            android:enabled="true"
+            android:exported="true" />
+
+        <service
+            android:name=".ShakeServices.SensorService"
+            android:enabled="true"
+            android:exported="true" />
+
+        <activity android:name=".Splash">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".LoginActivity"
+            android:label="Login"
+            android:parentActivityName=".Splash">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.raghav.sos.Splash" />
+        </activity>
+        <activity
+            android:name=".RegisterActivity"
+            android:label="Register"
+            android:parentActivityName=".LoginActivity">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.raghav.sos.LoginActivity" />
+        </activity>
+        <activity
+            android:name=".Home"
+            android:label="Women Safety App"
+            android:parentActivityName=".LoginActivity"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.raghav.sos.LoginActivity" />
+        </activity>
+        <activity android:name=".MainActivity" />
+        <activity android:name=".Account_settings" />
+        <activity android:name=".Reset_Password" />
+        <activity android:name=".Tips" />
+    </application>
+
+</manifest>
