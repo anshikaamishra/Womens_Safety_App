@@ -1,4 +1,4 @@
-package com.sos;
+package com.raghav.sos;
 
 import android.os.Bundle;
 
