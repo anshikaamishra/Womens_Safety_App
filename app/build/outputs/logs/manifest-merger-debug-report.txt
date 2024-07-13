@@ -1,0 +1,492 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Anshika Mishra\Downloads\SOS-master\SOS-master\app\src\main\AndroidManifest.xml:2:1-74:12
+INJECTED from C:\Users\Anshika Mishra\Downloads\SOS-master\SOS-master\app\src\main\AndroidManifest.xml:2:1-74:12
+INJECTED from C:\Users\Anshika Mishra\Downloads\SOS-master\SOS-master\app\src\main\AndroidManifest.xml:2:1-74:12
+INJECTED from C:\Users\Anshika Mishra\Downloads\SOS-master\SOS-master\app\src\main\AndroidManifest.xml:2:1-74:12
+MERGED from [com.google.android.material:material:1.5.0-alpha02] C:\Users\Anshika Mishra\Downloads\SOS-master\caches\transforms-3\7b2f23d4d5d64023a9f9e3f898523a03\transformed\material-1.5.0-alpha02\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.0] C:\Users\Anshika Mishra\Downloads\SOS-master\caches\transforms-3\08330c71d5be9454daa9c6b76735cf20\transformed\constraintlayout-2.1.0\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.3.1] C:\Users\Anshika Mishra\Downloads\SOS-master\caches\transforms-3\309c94c6dd9b9e17587359b83f719cd2\transformed\appcompat-1.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\Anshika Mishra\Downloads\SOS-master\caches\transforms-3\2232fd768aa7f3c4de3cd890ebdd1c0c\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:17:1-83:12
+MERGED from [com.google.firebase:firebase-database:20.0.2] C:\Users\Anshika Mishra\Downloads\SOS-master\caches\transforms-3\c1e3aca7acc6315254254caf9e46b84c\transformed\jetified-firebase-database-20.0.2\AndroidManifest.xml:15:1-38:12
+MERGED from [com.android.volley:volley:1.2.1] C:\Users\Anshika Mishra\Downloads\SOS-master\caches\transforms-3\270f85cc84356a09effc9159ed8514c0\transformed\jetified-volley-1.2.1\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-location:18.0.0] C:\Users\Anshika Mishra\Downloads\SOS-master\caches\transforms-3\03f1676e72b4e054f748b32246d25af6\transformed\jetified-play-services-location-18.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Anshika Mishra\Downloads\SOS-master\caches\transforms-3\45a034639626fe32c48bba176142a8b1\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone:17.4.0] C:\Users\Anshika Mishra\Downloads\SOS-master\caches\transforms-3\34b9cf269edc6013d7f3e16097014dde\transformed\jetified-play-services-auth-api-phone-17.4.0\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] C:\Users\Anshika Mishra\Downloads\SOS-master\caches\transforms-3\4a4889cdcfaa5611bf28bd6d34c605ad\transformed\jetified-play-services-safetynet-17.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-appcheck-interop:16.0.0-beta02] C:\Users\Anshika Mishra\Downloads\SOS-master\caches\transforms-3\f96ecbe016d982f8b39624814d711c2e\transformed\jetified-firebase-appcheck-interop-16.0.0-beta02\AndroidManifest.xml:15:1-26:12
+MERGED from [com.google.firebase:firebase-database-collection:18.0.0] C:\Users\Anshika Mishra\Downloads\SOS-master\caches\transforms-3\66801e342de7935b1690460f8be606c8\transformed\jetified-firebase-database-collection-18.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-base:17.5.0] C:\Users\Anshika Mishra\Downloads\SOS-master\caches\transforms-3\6f457fa9b50c83a779ad5d6d4a27ba05\transformed\jetified-play-services-base-17.5.0\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] C:\Users\Anshika Mishra\Downloads\SOS-master\caches\transforms-3\6708f9ada771b5a897b2f1918fcd4a87\transformed\jetified-firebase-auth-interop-20.0.0\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.firebase:firebase-common:20.0.0] C:\Users\Anshika Mishra\Downloads\SOS-master\caches\transforms-3\136a138062b560fc808fa24336345cc1\transformed\jetified-firebase-common-20.0.0\AndroidManifest.xml:15:1-40:12
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\Anshika Mishra\Downloads\SOS-master\caches\transforms-3\61d6e0c26d7a5963a7c7de0eb528ea98\transformed\jetified-play-services-places-placereport-17.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-tasks:17.2.0] C:\Users\Anshika Mishra\Downloads\SOS-master\caches\transforms-3\efbb0e5294712c8b164090eae57e45d7\transformed\jetified-play-services-tasks-17.2.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:17.5.0] C:\Users\Anshika Mishra\Downloads\SOS-master\caches\transforms-3\c46465ef2c6ab12be4e197765cec2e91\transformed\jetified-play-services-basement-17.5.0\AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\Anshika Mishra\Downloads\SOS-master\caches\transforms-3\b96a165d27ef884b5508a1760a35cc76\transformed\fragment-1.3.6\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.2.4] C:\Users\Anshika Mishra\Downloads\SOS-master\caches\transforms-3\bf43e302e06ea53a31759ccef5becd4b\transformed\jetified-activity-1.2.4\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.3.1] C:\Users\Anshika Mishra\Downloads\SOS-master\caches\transforms-3\b5b815c8b125d5db8ac24380fe5f83cb\transformed\jetified-appcompat-resources-1.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.browser:browser:1.0.0] C:\Users\Anshika Mishra\Downloads\SOS-master\caches\transforms-3\d3fc69706823f0ebf691efc1857bf5a7\transformed\browser-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Anshika Mishra\Downloads\SOS-master\caches\transforms-3\48cfe92d488f940e54716a3e80905f2f\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Anshika Mishra\Downloads\SOS-master\caches\transforms-3\3eaf9f85a74d92a0085223de016c8938\transformed\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Anshika Mishra\Downloads\SOS-master\caches\transforms-3\b4aee133105971f39548d016f491d331\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\Anshika Mishra\Downloads\SOS-master\caches\transforms-3\fd28fd63bd9f81a9dccf28834c7b3c69\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\Anshika Mishra\Downloads\SOS-master\caches\transforms-3\b78b6ba76d4dad66e21bb119dc860f6e\transformed\transition-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Anshika Mishra\Downloads\SOS-master\caches\transforms-3\e81c7ee186fb5c5d98c47b815aec6574\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Anshika Mishra\Downloads\SOS-master\caches\transforms-3\1d487f59cffa285cfa8f7d09930bb03c\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Anshika Mishra\Downloads\SOS-master\caches\transforms-3\38e1ae0e0f8e90a01c5a93609a9b1d08\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Anshika Mishra\Downloads\SOS-master\caches\transforms-3\6fb402ceaae1fe889b52221d38b74584\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Anshika Mishra\Downloads\SOS-master\caches\transforms-3\7eec03eb00b656312cade60a41fba9cd\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Anshika Mishra\Downloads\SOS-master\caches\transforms-3\2e5d55148c409c1cb22bc379d045c0a8\transformed\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Anshika Mishra\Downloads\SOS-master\caches\transforms-3\6a2db7f39469075d1212af9c57ab451f\transformed\slidingpanelayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Anshika Mishra\Downloads\SOS-master\caches\transforms-3\1e9aa56b3767fcab3878bde38e8cd99a\transformed\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Anshika Mishra\Downloads\SOS-master\caches\transforms-3\d8ea0f141ef5ce27f61db7e1da78c74a\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Anshika Mishra\Downloads\SOS-master\caches\transforms-3\5b54486eb413fbfebc136fd65d8e3860\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.5.0] C:\Users\Anshika Mishra\Downloads\SOS-master\caches\transforms-3\3857776e20dfa92388be06bd65ad26fe\transformed\core-1.5.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Anshika Mishra\Downloads\SOS-master\caches\transforms-3\fad8f6ac0b3d6b5e59d7d60de0b315da\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\Anshika Mishra\Downloads\SOS-master\caches\transforms-3\d002b7a78c58ebfa3bcccfcdeb466edf\transformed\jetified-lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\Anshika Mishra\Downloads\SOS-master\caches\transforms-3\a500d7f0af1568752033d2a48623391c\transformed\jetified-savedstate-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Users\Anshika Mishra\Downloads\SOS-master\caches\transforms-3\7ddf2052ba16f52a4b14a01f77c08e09\transformed\lifecycle-runtime-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\Anshika Mishra\Downloads\SOS-master\caches\transforms-3\95c4c589782ae7a40df703a731a730a1\transformed\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Anshika Mishra\Downloads\SOS-master\caches\transforms-3\186da59ac7d9075090041a5932fcd3cc\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Anshika Mishra\Downloads\SOS-master\caches\transforms-3\5f348120b132c911ea959f3a0f5534cc\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-components:17.0.0] C:\Users\Anshika Mishra\Downloads\SOS-master\caches\transforms-3\aa8c37f41c34b5256f273a782754e943\transformed\jetified-firebase-components-17.0.0\AndroidManifest.xml:15:1-23:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Anshika Mishra\Downloads\SOS-master\caches\transforms-3\2e41f6f489e80780e650367c8232a178\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Anshika Mishra\Downloads\SOS-master\caches\transforms-3\73a53e1aca124d25cfbf1d1bc4159122\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Anshika Mishra\Downloads\SOS-master\caches\transforms-3\6d93be6e8d41a18346b8a080f58aff14\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\Anshika Mishra\Downloads\SOS-master\caches\transforms-3\a133d9c082a2e80fa1ab6b37b76a17d9\transformed\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Anshika Mishra\Downloads\SOS-master\caches\transforms-3\437a61d5a759fb6b22a74e31458e46ab\transformed\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Anshika Mishra\Downloads\SOS-master\caches\transforms-3\e2fee6da71c75fe0984a6cb3a5f788d0\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Anshika Mishra\Downloads\SOS-master\caches\transforms-3\9eb5f25ee3f43ca011a7f35f87e62091\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\Anshika Mishra\Downloads\SOS-master\caches\transforms-3\60ad569df56af28e94c5ee2facee010c\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\Anshika Mishra\Downloads\SOS-master\caches\transforms-3\faf5a5fe40a282b53c7c9dd17846c5d5\transformed\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:17:1-24:12
+INJECTED from C:\Users\Anshika Mishra\Downloads\SOS-master\SOS-master\app\src\main\AndroidManifest.xml:2:1-74:12
+INJECTED from C:\Users\Anshika Mishra\Downloads\SOS-master\SOS-master\app\src\main\AndroidManifest.xml:2:1-74:12
+INJECTED from C:\Users\Anshika Mishra\Downloads\SOS-master\SOS-master\app\src\main\AndroidManifest.xml:2:1-74:12
+	package
+		ADDED from C:\Users\Anshika Mishra\Downloads\SOS-master\SOS-master\app\src\main\AndroidManifest.xml:4:5-26
+		INJECTED from C:\Users\Anshika Mishra\Downloads\SOS-master\SOS-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Anshika Mishra\Downloads\SOS-master\SOS-master\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Anshika Mishra\Downloads\SOS-master\SOS-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Anshika Mishra\Downloads\SOS-master\SOS-master\app\src\main\AndroidManifest.xml:2:1-74:12
+		INJECTED from C:\Users\Anshika Mishra\Downloads\SOS-master\SOS-master\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\Anshika Mishra\Downloads\SOS-master\SOS-master\app\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from C:\Users\Anshika Mishra\Downloads\SOS-master\SOS-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Anshika Mishra\Downloads\SOS-master\SOS-master\app\src\main\AndroidManifest.xml:2:1-74:12
+		INJECTED from C:\Users\Anshika Mishra\Downloads\SOS-master\SOS-master\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Anshika Mishra\Downloads\SOS-master\SOS-master\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.READ_CONTACTS
+ADDED from C:\Users\Anshika Mishra\Downloads\SOS-master\SOS-master\app\src\main\AndroidManifest.xml:6:5-72
+	android:name
+		ADDED from C:\Users\Anshika Mishra\Downloads\SOS-master\SOS-master\app\src\main\AndroidManifest.xml:6:22-69
+uses-permission#android.permission.VIBRATE
+ADDED from C:\Users\Anshika Mishra\Downloads\SOS-master\SOS-master\app\src\main\AndroidManifest.xml:7:5-66
+	android:name
+		ADDED from C:\Users\Anshika Mishra\Downloads\SOS-master\SOS-master\app\src\main\AndroidManifest.xml:7:22-63
+uses-permission#android.permission.SEND_SMS
+ADDED from C:\Users\Anshika Mishra\Downloads\SOS-master\SOS-master\app\src\main\AndroidManifest.xml:8:5-67
+	android:name
+		ADDED from C:\Users\Anshika Mishra\Downloads\SOS-master\SOS-master\app\src\main\AndroidManifest.xml:8:22-64
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\Anshika Mishra\Downloads\SOS-master\SOS-master\app\src\main\AndroidManifest.xml:9:5-79
+	android:name
+		ADDED from C:\Users\Anshika Mishra\Downloads\SOS-master\SOS-master\app\src\main\AndroidManifest.xml:9:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from C:\Users\Anshika Mishra\Downloads\SOS-master\SOS-master\app\src\main\AndroidManifest.xml:10:5-81
+	android:name
+		ADDED from C:\Users\Anshika Mishra\Downloads\SOS-master\SOS-master\app\src\main\AndroidManifest.xml:10:22-78
+uses-permission#android.permission.FOREGROUND_SERVICE
+ADDED from C:\Users\Anshika Mishra\Downloads\SOS-master\SOS-master\app\src\main\AndroidManifest.xml:11:5-77
+	android:name
+		ADDED from C:\Users\Anshika Mishra\Downloads\SOS-master\SOS-master\app\src\main\AndroidManifest.xml:11:22-74
+uses-permission#android.permission.ACCESS_BACKGROUND_LOCATION
+ADDED from C:\Users\Anshika Mishra\Downloads\SOS-master\SOS-master\app\src\main\AndroidManifest.xml:12:5-85
+	android:name
+		ADDED from C:\Users\Anshika Mishra\Downloads\SOS-master\SOS-master\app\src\main\AndroidManifest.xml:12:22-82
+uses-permission#android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS
+ADDED from C:\Users\Anshika Mishra\Downloads\SOS-master\SOS-master\app\src\main\AndroidManifest.xml:13:5-95
+	android:name
+		ADDED from C:\Users\Anshika Mishra\Downloads\SOS-master\SOS-master\app\src\main\AndroidManifest.xml:13:22-92
+application
+ADDED from C:\Users\Anshika Mishra\Downloads\SOS-master\SOS-master\app\src\main\AndroidManifest.xml:15:5-72:19
+MERGED from [com.google.android.material:material:1.5.0-alpha02] C:\Users\Anshika Mishra\Downloads\SOS-master\caches\transforms-3\7b2f23d4d5d64023a9f9e3f898523a03\transformed\material-1.5.0-alpha02\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.5.0-alpha02] C:\Users\Anshika Mishra\Downloads\SOS-master\caches\transforms-3\7b2f23d4d5d64023a9f9e3f898523a03\transformed\material-1.5.0-alpha02\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.0] C:\Users\Anshika Mishra\Downloads\SOS-master\caches\transforms-3\08330c71d5be9454daa9c6b76735cf20\transformed\constraintlayout-2.1.0\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.0] C:\Users\Anshika Mishra\Downloads\SOS-master\caches\transforms-3\08330c71d5be9454daa9c6b76735cf20\transformed\constraintlayout-2.1.0\AndroidManifest.xml:9:5-20
+MERGED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\Anshika Mishra\Downloads\SOS-master\caches\transforms-3\2232fd768aa7f3c4de3cd890ebdd1c0c\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:26:5-81:19
+MERGED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\Anshika Mishra\Downloads\SOS-master\caches\transforms-3\2232fd768aa7f3c4de3cd890ebdd1c0c\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:26:5-81:19
+MERGED from [com.google.firebase:firebase-database:20.0.2] C:\Users\Anshika Mishra\Downloads\SOS-master\caches\transforms-3\c1e3aca7acc6315254254caf9e46b84c\transformed\jetified-firebase-database-20.0.2\AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.firebase:firebase-database:20.0.2] C:\Users\Anshika Mishra\Downloads\SOS-master\caches\transforms-3\c1e3aca7acc6315254254caf9e46b84c\transformed\jetified-firebase-database-20.0.2\AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.android.gms:play-services-location:18.0.0] C:\Users\Anshika Mishra\Downloads\SOS-master\caches\transforms-3\03f1676e72b4e054f748b32246d25af6\transformed\jetified-play-services-location-18.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:18.0.0] C:\Users\Anshika Mishra\Downloads\SOS-master\caches\transforms-3\03f1676e72b4e054f748b32246d25af6\transformed\jetified-play-services-location-18.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] C:\Users\Anshika Mishra\Downloads\SOS-master\caches\transforms-3\4a4889cdcfaa5611bf28bd6d34c605ad\transformed\jetified-play-services-safetynet-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] C:\Users\Anshika Mishra\Downloads\SOS-master\caches\transforms-3\4a4889cdcfaa5611bf28bd6d34c605ad\transformed\jetified-play-services-safetynet-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-appcheck-interop:16.0.0-beta02] C:\Users\Anshika Mishra\Downloads\SOS-master\caches\transforms-3\f96ecbe016d982f8b39624814d711c2e\transformed\jetified-firebase-appcheck-interop-16.0.0-beta02\AndroidManifest.xml:24:5-20
+MERGED from [com.google.firebase:firebase-appcheck-interop:16.0.0-beta02] C:\Users\Anshika Mishra\Downloads\SOS-master\caches\transforms-3\f96ecbe016d982f8b39624814d711c2e\transformed\jetified-firebase-appcheck-interop-16.0.0-beta02\AndroidManifest.xml:24:5-20
+MERGED from [com.google.android.gms:play-services-base:17.5.0] C:\Users\Anshika Mishra\Downloads\SOS-master\caches\transforms-3\6f457fa9b50c83a779ad5d6d4a27ba05\transformed\jetified-play-services-base-17.5.0\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.5.0] C:\Users\Anshika Mishra\Downloads\SOS-master\caches\transforms-3\6f457fa9b50c83a779ad5d6d4a27ba05\transformed\jetified-play-services-base-17.5.0\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] C:\Users\Anshika Mishra\Downloads\SOS-master\caches\transforms-3\6708f9ada771b5a897b2f1918fcd4a87\transformed\jetified-firebase-auth-interop-20.0.0\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] C:\Users\Anshika Mishra\Downloads\SOS-master\caches\transforms-3\6708f9ada771b5a897b2f1918fcd4a87\transformed\jetified-firebase-auth-interop-20.0.0\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-common:20.0.0] C:\Users\Anshika Mishra\Downloads\SOS-master\caches\transforms-3\136a138062b560fc808fa24336345cc1\transformed\jetified-firebase-common-20.0.0\AndroidManifest.xml:25:5-38:19
+MERGED from [com.google.firebase:firebase-common:20.0.0] C:\Users\Anshika Mishra\Downloads\SOS-master\caches\transforms-3\136a138062b560fc808fa24336345cc1\transformed\jetified-firebase-common-20.0.0\AndroidManifest.xml:25:5-38:19
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\Anshika Mishra\Downloads\SOS-master\caches\transforms-3\61d6e0c26d7a5963a7c7de0eb528ea98\transformed\jetified-play-services-places-placereport-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\Anshika Mishra\Downloads\SOS-master\caches\transforms-3\61d6e0c26d7a5963a7c7de0eb528ea98\transformed\jetified-play-services-places-placereport-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.2.0] C:\Users\Anshika Mishra\Downloads\SOS-master\caches\transforms-3\efbb0e5294712c8b164090eae57e45d7\transformed\jetified-play-services-tasks-17.2.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.2.0] C:\Users\Anshika Mishra\Downloads\SOS-master\caches\transforms-3\efbb0e5294712c8b164090eae57e45d7\transformed\jetified-play-services-tasks-17.2.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:17.5.0] C:\Users\Anshika Mishra\Downloads\SOS-master\caches\transforms-3\c46465ef2c6ab12be4e197765cec2e91\transformed\jetified-play-services-basement-17.5.0\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.5.0] C:\Users\Anshika Mishra\Downloads\SOS-master\caches\transforms-3\c46465ef2c6ab12be4e197765cec2e91\transformed\jetified-play-services-basement-17.5.0\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.5.0] C:\Users\Anshika Mishra\Downloads\SOS-master\caches\transforms-3\3857776e20dfa92388be06bd65ad26fe\transformed\core-1.5.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.5.0] C:\Users\Anshika Mishra\Downloads\SOS-master\caches\transforms-3\3857776e20dfa92388be06bd65ad26fe\transformed\core-1.5.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Anshika Mishra\Downloads\SOS-master\caches\transforms-3\2e41f6f489e80780e650367c8232a178\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Anshika Mishra\Downloads\SOS-master\caches\transforms-3\2e41f6f489e80780e650367c8232a178\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.5.0] C:\Users\Anshika Mishra\Downloads\SOS-master\caches\transforms-3\3857776e20dfa92388be06bd65ad26fe\transformed\core-1.5.0\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from C:\Users\Anshika Mishra\Downloads\SOS-master\SOS-master\app\src\main\AndroidManifest.xml:20:9-35
+	android:label
+		ADDED from C:\Users\Anshika Mishra\Downloads\SOS-master\SOS-master\app\src\main\AndroidManifest.xml:18:9-41
+	android:roundIcon
+		ADDED from C:\Users\Anshika Mishra\Downloads\SOS-master\SOS-master\app\src\main\AndroidManifest.xml:19:9-45
+	android:icon
+		ADDED from C:\Users\Anshika Mishra\Downloads\SOS-master\SOS-master\app\src\main\AndroidManifest.xml:17:9-40
+	android:allowBackup
+		ADDED from C:\Users\Anshika Mishra\Downloads\SOS-master\SOS-master\app\src\main\AndroidManifest.xml:16:9-35
+	android:theme
+		ADDED from C:\Users\Anshika Mishra\Downloads\SOS-master\SOS-master\app\src\main\AndroidManifest.xml:21:9-41
+activity#anshika.sos.About
+ADDED from C:\Users\Anshika Mishra\Downloads\SOS-master\SOS-master\app\src\main\AndroidManifest.xml:22:9-24:39
+	android:exported
+		ADDED from C:\Users\Anshika Mishra\Downloads\SOS-master\SOS-master\app\src\main\AndroidManifest.xml:24:13-36
+	android:name
+		ADDED from C:\Users\Anshika Mishra\Downloads\SOS-master\SOS-master\app\src\main\AndroidManifest.xml:23:13-45
+receiver#anshika.sos.ShakeServices.ReactivateService
+ADDED from C:\Users\Anshika Mishra\Downloads\SOS-master\SOS-master\app\src\main\AndroidManifest.xml:26:9-29:39
+	android:enabled
+		ADDED from C:\Users\Anshika Mishra\Downloads\SOS-master\SOS-master\app\src\main\AndroidManifest.xml:28:13-35
+	android:exported
+		ADDED from C:\Users\Anshika Mishra\Downloads\SOS-master\SOS-master\app\src\main\AndroidManifest.xml:29:13-36
+	android:name
+		ADDED from C:\Users\Anshika Mishra\Downloads\SOS-master\SOS-master\app\src\main\AndroidManifest.xml:27:13-71
+service#anshika.sos.ShakeServices.SensorService
+ADDED from C:\Users\Anshika Mishra\Downloads\SOS-master\SOS-master\app\src\main\AndroidManifest.xml:31:9-34:39
+	android:enabled
+		ADDED from C:\Users\Anshika Mishra\Downloads\SOS-master\SOS-master\app\src\main\AndroidManifest.xml:33:13-35
+	android:exported
+		ADDED from C:\Users\Anshika Mishra\Downloads\SOS-master\SOS-master\app\src\main\AndroidManifest.xml:34:13-36
+	android:name
+		ADDED from C:\Users\Anshika Mishra\Downloads\SOS-master\SOS-master\app\src\main\AndroidManifest.xml:32:13-67
+activity#anshika.sos.Splash
+ADDED from C:\Users\Anshika Mishra\Downloads\SOS-master\SOS-master\app\src\main\AndroidManifest.xml:36:9-42:20
+	android:name
+		ADDED from C:\Users\Anshika Mishra\Downloads\SOS-master\SOS-master\app\src\main\AndroidManifest.xml:36:19-52
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Anshika Mishra\Downloads\SOS-master\SOS-master\app\src\main\AndroidManifest.xml:37:13-41:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Anshika Mishra\Downloads\SOS-master\SOS-master\app\src\main\AndroidManifest.xml:38:17-69
+	android:name
+		ADDED from C:\Users\Anshika Mishra\Downloads\SOS-master\SOS-master\app\src\main\AndroidManifest.xml:38:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Anshika Mishra\Downloads\SOS-master\SOS-master\app\src\main\AndroidManifest.xml:40:17-77
+	android:name
+		ADDED from C:\Users\Anshika Mishra\Downloads\SOS-master\SOS-master\app\src\main\AndroidManifest.xml:40:27-74
+activity#anshika.sos.LoginActivity
+ADDED from C:\Users\Anshika Mishra\Downloads\SOS-master\SOS-master\app\src\main\AndroidManifest.xml:43:9-50:20
+	android:parentActivityName
+		ADDED from C:\Users\Anshika Mishra\Downloads\SOS-master\SOS-master\app\src\main\AndroidManifest.xml:46:13-60
+	android:label
+		ADDED from C:\Users\Anshika Mishra\Downloads\SOS-master\SOS-master\app\src\main\AndroidManifest.xml:45:13-34
+	android:name
+		ADDED from C:\Users\Anshika Mishra\Downloads\SOS-master\SOS-master\app\src\main\AndroidManifest.xml:44:13-53
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from C:\Users\Anshika Mishra\Downloads\SOS-master\SOS-master\app\src\main\AndroidManifest.xml:47:13-49:54
+	android:value
+		ADDED from C:\Users\Anshika Mishra\Downloads\SOS-master\SOS-master\app\src\main\AndroidManifest.xml:49:17-51
+	android:name
+		ADDED from C:\Users\Anshika Mishra\Downloads\SOS-master\SOS-master\app\src\main\AndroidManifest.xml:48:17-63
+activity#anshika.sos.RegisterActivity
+ADDED from C:\Users\Anshika Mishra\Downloads\SOS-master\SOS-master\app\src\main\AndroidManifest.xml:51:9-58:20
+	android:parentActivityName
+		ADDED from C:\Users\Anshika Mishra\Downloads\SOS-master\SOS-master\app\src\main\AndroidManifest.xml:54:13-67
+	android:label
+		ADDED from C:\Users\Anshika Mishra\Downloads\SOS-master\SOS-master\app\src\main\AndroidManifest.xml:53:13-37
+	android:name
+		ADDED from C:\Users\Anshika Mishra\Downloads\SOS-master\SOS-master\app\src\main\AndroidManifest.xml:52:13-56
+activity#anshika.sos.Home
+ADDED from C:\Users\Anshika Mishra\Downloads\SOS-master\SOS-master\app\src\main\AndroidManifest.xml:59:9-67:20
+	android:parentActivityName
+		ADDED from C:\Users\Anshika Mishra\Downloads\SOS-master\SOS-master\app\src\main\AndroidManifest.xml:62:13-67
+	android:label
+		ADDED from C:\Users\Anshika Mishra\Downloads\SOS-master\SOS-master\app\src\main\AndroidManifest.xml:61:13-45
+	android:theme
+		ADDED from C:\Users\Anshika Mishra\Downloads\SOS-master\SOS-master\app\src\main\AndroidManifest.xml:63:13-69
+	android:name
+		ADDED from C:\Users\Anshika Mishra\Downloads\SOS-master\SOS-master\app\src\main\AndroidManifest.xml:60:13-44
+activity#anshika.sos.MainActivity
+ADDED from C:\Users\Anshika Mishra\Downloads\SOS-master\SOS-master\app\src\main\AndroidManifest.xml:68:9-61
+	android:name
+		ADDED from C:\Users\Anshika Mishra\Downloads\SOS-master\SOS-master\app\src\main\AndroidManifest.xml:68:19-58
+activity#anshika.sos.Account_settings
+ADDED from C:\Users\Anshika Mishra\Downloads\SOS-master\SOS-master\app\src\main\AndroidManifest.xml:69:9-65
+	android:name
+		ADDED from C:\Users\Anshika Mishra\Downloads\SOS-master\SOS-master\app\src\main\AndroidManifest.xml:69:19-62
+activity#anshika.sos.Reset_Password
+ADDED from C:\Users\Anshika Mishra\Downloads\SOS-master\SOS-master\app\src\main\AndroidManifest.xml:70:9-63
+	android:name
+		ADDED from C:\Users\Anshika Mishra\Downloads\SOS-master\SOS-master\app\src\main\AndroidManifest.xml:70:19-60
+activity#anshika.sos.Tips
+ADDED from C:\Users\Anshika Mishra\Downloads\SOS-master\SOS-master\app\src\main\AndroidManifest.xml:71:9-53
+	android:name
+		ADDED from C:\Users\Anshika Mishra\Downloads\SOS-master\SOS-master\app\src\main\AndroidManifest.xml:71:19-50
+uses-sdk
+INJECTED from C:\Users\Anshika Mishra\Downloads\SOS-master\SOS-master\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Anshika Mishra\Downloads\SOS-master\SOS-master\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Anshika Mishra\Downloads\SOS-master\SOS-master\app\src\main\AndroidManifest.xml
+MERGED from [com.google.android.material:material:1.5.0-alpha02] C:\Users\Anshika Mishra\Downloads\SOS-master\caches\transforms-3\7b2f23d4d5d64023a9f9e3f898523a03\transformed\material-1.5.0-alpha02\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.5.0-alpha02] C:\Users\Anshika Mishra\Downloads\SOS-master\caches\transforms-3\7b2f23d4d5d64023a9f9e3f898523a03\transformed\material-1.5.0-alpha02\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.0] C:\Users\Anshika Mishra\Downloads\SOS-master\caches\transforms-3\08330c71d5be9454daa9c6b76735cf20\transformed\constraintlayout-2.1.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.0] C:\Users\Anshika Mishra\Downloads\SOS-master\caches\transforms-3\08330c71d5be9454daa9c6b76735cf20\transformed\constraintlayout-2.1.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.3.1] C:\Users\Anshika Mishra\Downloads\SOS-master\caches\transforms-3\309c94c6dd9b9e17587359b83f719cd2\transformed\appcompat-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.3.1] C:\Users\Anshika Mishra\Downloads\SOS-master\caches\transforms-3\309c94c6dd9b9e17587359b83f719cd2\transformed\appcompat-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\Anshika Mishra\Downloads\SOS-master\caches\transforms-3\2232fd768aa7f3c4de3cd890ebdd1c0c\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:21:5-44
+MERGED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\Anshika Mishra\Downloads\SOS-master\caches\transforms-3\2232fd768aa7f3c4de3cd890ebdd1c0c\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:21:5-44
+MERGED from [com.google.firebase:firebase-database:20.0.2] C:\Users\Anshika Mishra\Downloads\SOS-master\caches\transforms-3\c1e3aca7acc6315254254caf9e46b84c\transformed\jetified-firebase-database-20.0.2\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-database:20.0.2] C:\Users\Anshika Mishra\Downloads\SOS-master\caches\transforms-3\c1e3aca7acc6315254254caf9e46b84c\transformed\jetified-firebase-database-20.0.2\AndroidManifest.xml:19:5-21:41
+MERGED from [com.android.volley:volley:1.2.1] C:\Users\Anshika Mishra\Downloads\SOS-master\caches\transforms-3\270f85cc84356a09effc9159ed8514c0\transformed\jetified-volley-1.2.1\AndroidManifest.xml:5:5-43
+MERGED from [com.android.volley:volley:1.2.1] C:\Users\Anshika Mishra\Downloads\SOS-master\caches\transforms-3\270f85cc84356a09effc9159ed8514c0\transformed\jetified-volley-1.2.1\AndroidManifest.xml:5:5-43
+MERGED from [com.google.android.gms:play-services-location:18.0.0] C:\Users\Anshika Mishra\Downloads\SOS-master\caches\transforms-3\03f1676e72b4e054f748b32246d25af6\transformed\jetified-play-services-location-18.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:18.0.0] C:\Users\Anshika Mishra\Downloads\SOS-master\caches\transforms-3\03f1676e72b4e054f748b32246d25af6\transformed\jetified-play-services-location-18.0.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Anshika Mishra\Downloads\SOS-master\caches\transforms-3\45a034639626fe32c48bba176142a8b1\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Anshika Mishra\Downloads\SOS-master\caches\transforms-3\45a034639626fe32c48bba176142a8b1\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-auth-api-phone:17.4.0] C:\Users\Anshika Mishra\Downloads\SOS-master\caches\transforms-3\34b9cf269edc6013d7f3e16097014dde\transformed\jetified-play-services-auth-api-phone-17.4.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:17.4.0] C:\Users\Anshika Mishra\Downloads\SOS-master\caches\transforms-3\34b9cf269edc6013d7f3e16097014dde\transformed\jetified-play-services-auth-api-phone-17.4.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] C:\Users\Anshika Mishra\Downloads\SOS-master\caches\transforms-3\4a4889cdcfaa5611bf28bd6d34c605ad\transformed\jetified-play-services-safetynet-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] C:\Users\Anshika Mishra\Downloads\SOS-master\caches\transforms-3\4a4889cdcfaa5611bf28bd6d34c605ad\transformed\jetified-play-services-safetynet-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-appcheck-interop:16.0.0-beta02] C:\Users\Anshika Mishra\Downloads\SOS-master\caches\transforms-3\f96ecbe016d982f8b39624814d711c2e\transformed\jetified-firebase-appcheck-interop-16.0.0-beta02\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-appcheck-interop:16.0.0-beta02] C:\Users\Anshika Mishra\Downloads\SOS-master\caches\transforms-3\f96ecbe016d982f8b39624814d711c2e\transformed\jetified-firebase-appcheck-interop-16.0.0-beta02\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-database-collection:18.0.0] C:\Users\Anshika Mishra\Downloads\SOS-master\caches\transforms-3\66801e342de7935b1690460f8be606c8\transformed\jetified-firebase-database-collection-18.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-database-collection:18.0.0] C:\Users\Anshika Mishra\Downloads\SOS-master\caches\transforms-3\66801e342de7935b1690460f8be606c8\transformed\jetified-firebase-database-collection-18.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-base:17.5.0] C:\Users\Anshika Mishra\Downloads\SOS-master\caches\transforms-3\6f457fa9b50c83a779ad5d6d4a27ba05\transformed\jetified-play-services-base-17.5.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.5.0] C:\Users\Anshika Mishra\Downloads\SOS-master\caches\transforms-3\6f457fa9b50c83a779ad5d6d4a27ba05\transformed\jetified-play-services-base-17.5.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] C:\Users\Anshika Mishra\Downloads\SOS-master\caches\transforms-3\6708f9ada771b5a897b2f1918fcd4a87\transformed\jetified-firebase-auth-interop-20.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] C:\Users\Anshika Mishra\Downloads\SOS-master\caches\transforms-3\6708f9ada771b5a897b2f1918fcd4a87\transformed\jetified-firebase-auth-interop-20.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-common:20.0.0] C:\Users\Anshika Mishra\Downloads\SOS-master\caches\transforms-3\136a138062b560fc808fa24336345cc1\transformed\jetified-firebase-common-20.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-common:20.0.0] C:\Users\Anshika Mishra\Downloads\SOS-master\caches\transforms-3\136a138062b560fc808fa24336345cc1\transformed\jetified-firebase-common-20.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\Anshika Mishra\Downloads\SOS-master\caches\transforms-3\61d6e0c26d7a5963a7c7de0eb528ea98\transformed\jetified-play-services-places-placereport-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\Anshika Mishra\Downloads\SOS-master\caches\transforms-3\61d6e0c26d7a5963a7c7de0eb528ea98\transformed\jetified-play-services-places-placereport-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.2.0] C:\Users\Anshika Mishra\Downloads\SOS-master\caches\transforms-3\efbb0e5294712c8b164090eae57e45d7\transformed\jetified-play-services-tasks-17.2.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.2.0] C:\Users\Anshika Mishra\Downloads\SOS-master\caches\transforms-3\efbb0e5294712c8b164090eae57e45d7\transformed\jetified-play-services-tasks-17.2.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.5.0] C:\Users\Anshika Mishra\Downloads\SOS-master\caches\transforms-3\c46465ef2c6ab12be4e197765cec2e91\transformed\jetified-play-services-basement-17.5.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.5.0] C:\Users\Anshika Mishra\Downloads\SOS-master\caches\transforms-3\c46465ef2c6ab12be4e197765cec2e91\transformed\jetified-play-services-basement-17.5.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\Anshika Mishra\Downloads\SOS-master\caches\transforms-3\b96a165d27ef884b5508a1760a35cc76\transformed\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\Anshika Mishra\Downloads\SOS-master\caches\transforms-3\b96a165d27ef884b5508a1760a35cc76\transformed\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] C:\Users\Anshika Mishra\Downloads\SOS-master\caches\transforms-3\bf43e302e06ea53a31759ccef5becd4b\transformed\jetified-activity-1.2.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] C:\Users\Anshika Mishra\Downloads\SOS-master\caches\transforms-3\bf43e302e06ea53a31759ccef5becd4b\transformed\jetified-activity-1.2.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.3.1] C:\Users\Anshika Mishra\Downloads\SOS-master\caches\transforms-3\b5b815c8b125d5db8ac24380fe5f83cb\transformed\jetified-appcompat-resources-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.3.1] C:\Users\Anshika Mishra\Downloads\SOS-master\caches\transforms-3\b5b815c8b125d5db8ac24380fe5f83cb\transformed\jetified-appcompat-resources-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.browser:browser:1.0.0] C:\Users\Anshika Mishra\Downloads\SOS-master\caches\transforms-3\d3fc69706823f0ebf691efc1857bf5a7\transformed\browser-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.browser:browser:1.0.0] C:\Users\Anshika Mishra\Downloads\SOS-master\caches\transforms-3\d3fc69706823f0ebf691efc1857bf5a7\transformed\browser-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Anshika Mishra\Downloads\SOS-master\caches\transforms-3\48cfe92d488f940e54716a3e80905f2f\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Anshika Mishra\Downloads\SOS-master\caches\transforms-3\48cfe92d488f940e54716a3e80905f2f\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Anshika Mishra\Downloads\SOS-master\caches\transforms-3\3eaf9f85a74d92a0085223de016c8938\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Anshika Mishra\Downloads\SOS-master\caches\transforms-3\3eaf9f85a74d92a0085223de016c8938\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Anshika Mishra\Downloads\SOS-master\caches\transforms-3\b4aee133105971f39548d016f491d331\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Anshika Mishra\Downloads\SOS-master\caches\transforms-3\b4aee133105971f39548d016f491d331\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\Anshika Mishra\Downloads\SOS-master\caches\transforms-3\fd28fd63bd9f81a9dccf28834c7b3c69\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\Anshika Mishra\Downloads\SOS-master\caches\transforms-3\fd28fd63bd9f81a9dccf28834c7b3c69\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\Anshika Mishra\Downloads\SOS-master\caches\transforms-3\b78b6ba76d4dad66e21bb119dc860f6e\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\Anshika Mishra\Downloads\SOS-master\caches\transforms-3\b78b6ba76d4dad66e21bb119dc860f6e\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Anshika Mishra\Downloads\SOS-master\caches\transforms-3\e81c7ee186fb5c5d98c47b815aec6574\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Anshika Mishra\Downloads\SOS-master\caches\transforms-3\e81c7ee186fb5c5d98c47b815aec6574\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Anshika Mishra\Downloads\SOS-master\caches\transforms-3\1d487f59cffa285cfa8f7d09930bb03c\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Anshika Mishra\Downloads\SOS-master\caches\transforms-3\1d487f59cffa285cfa8f7d09930bb03c\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Anshika Mishra\Downloads\SOS-master\caches\transforms-3\38e1ae0e0f8e90a01c5a93609a9b1d08\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Anshika Mishra\Downloads\SOS-master\caches\transforms-3\38e1ae0e0f8e90a01c5a93609a9b1d08\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Anshika Mishra\Downloads\SOS-master\caches\transforms-3\6fb402ceaae1fe889b52221d38b74584\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Anshika Mishra\Downloads\SOS-master\caches\transforms-3\6fb402ceaae1fe889b52221d38b74584\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Anshika Mishra\Downloads\SOS-master\caches\transforms-3\7eec03eb00b656312cade60a41fba9cd\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Anshika Mishra\Downloads\SOS-master\caches\transforms-3\7eec03eb00b656312cade60a41fba9cd\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Anshika Mishra\Downloads\SOS-master\caches\transforms-3\2e5d55148c409c1cb22bc379d045c0a8\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Anshika Mishra\Downloads\SOS-master\caches\transforms-3\2e5d55148c409c1cb22bc379d045c0a8\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Anshika Mishra\Downloads\SOS-master\caches\transforms-3\6a2db7f39469075d1212af9c57ab451f\transformed\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Anshika Mishra\Downloads\SOS-master\caches\transforms-3\6a2db7f39469075d1212af9c57ab451f\transformed\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Anshika Mishra\Downloads\SOS-master\caches\transforms-3\1e9aa56b3767fcab3878bde38e8cd99a\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Anshika Mishra\Downloads\SOS-master\caches\transforms-3\1e9aa56b3767fcab3878bde38e8cd99a\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Anshika Mishra\Downloads\SOS-master\caches\transforms-3\d8ea0f141ef5ce27f61db7e1da78c74a\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Anshika Mishra\Downloads\SOS-master\caches\transforms-3\d8ea0f141ef5ce27f61db7e1da78c74a\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Anshika Mishra\Downloads\SOS-master\caches\transforms-3\5b54486eb413fbfebc136fd65d8e3860\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Anshika Mishra\Downloads\SOS-master\caches\transforms-3\5b54486eb413fbfebc136fd65d8e3860\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.5.0] C:\Users\Anshika Mishra\Downloads\SOS-master\caches\transforms-3\3857776e20dfa92388be06bd65ad26fe\transformed\core-1.5.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.5.0] C:\Users\Anshika Mishra\Downloads\SOS-master\caches\transforms-3\3857776e20dfa92388be06bd65ad26fe\transformed\core-1.5.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Anshika Mishra\Downloads\SOS-master\caches\transforms-3\fad8f6ac0b3d6b5e59d7d60de0b315da\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Anshika Mishra\Downloads\SOS-master\caches\transforms-3\fad8f6ac0b3d6b5e59d7d60de0b315da\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\Anshika Mishra\Downloads\SOS-master\caches\transforms-3\d002b7a78c58ebfa3bcccfcdeb466edf\transformed\jetified-lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\Anshika Mishra\Downloads\SOS-master\caches\transforms-3\d002b7a78c58ebfa3bcccfcdeb466edf\transformed\jetified-lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\Anshika Mishra\Downloads\SOS-master\caches\transforms-3\a500d7f0af1568752033d2a48623391c\transformed\jetified-savedstate-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\Anshika Mishra\Downloads\SOS-master\caches\transforms-3\a500d7f0af1568752033d2a48623391c\transformed\jetified-savedstate-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Users\Anshika Mishra\Downloads\SOS-master\caches\transforms-3\7ddf2052ba16f52a4b14a01f77c08e09\transformed\lifecycle-runtime-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Users\Anshika Mishra\Downloads\SOS-master\caches\transforms-3\7ddf2052ba16f52a4b14a01f77c08e09\transformed\lifecycle-runtime-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\Anshika Mishra\Downloads\SOS-master\caches\transforms-3\95c4c589782ae7a40df703a731a730a1\transformed\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\Anshika Mishra\Downloads\SOS-master\caches\transforms-3\95c4c589782ae7a40df703a731a730a1\transformed\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Anshika Mishra\Downloads\SOS-master\caches\transforms-3\186da59ac7d9075090041a5932fcd3cc\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Anshika Mishra\Downloads\SOS-master\caches\transforms-3\186da59ac7d9075090041a5932fcd3cc\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Anshika Mishra\Downloads\SOS-master\caches\transforms-3\5f348120b132c911ea959f3a0f5534cc\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Anshika Mishra\Downloads\SOS-master\caches\transforms-3\5f348120b132c911ea959f3a0f5534cc\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-components:17.0.0] C:\Users\Anshika Mishra\Downloads\SOS-master\caches\transforms-3\aa8c37f41c34b5256f273a782754e943\transformed\jetified-firebase-components-17.0.0\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-components:17.0.0] C:\Users\Anshika Mishra\Downloads\SOS-master\caches\transforms-3\aa8c37f41c34b5256f273a782754e943\transformed\jetified-firebase-components-17.0.0\AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Anshika Mishra\Downloads\SOS-master\caches\transforms-3\2e41f6f489e80780e650367c8232a178\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Anshika Mishra\Downloads\SOS-master\caches\transforms-3\2e41f6f489e80780e650367c8232a178\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Anshika Mishra\Downloads\SOS-master\caches\transforms-3\73a53e1aca124d25cfbf1d1bc4159122\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Anshika Mishra\Downloads\SOS-master\caches\transforms-3\73a53e1aca124d25cfbf1d1bc4159122\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Anshika Mishra\Downloads\SOS-master\caches\transforms-3\6d93be6e8d41a18346b8a080f58aff14\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Anshika Mishra\Downloads\SOS-master\caches\transforms-3\6d93be6e8d41a18346b8a080f58aff14\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\Anshika Mishra\Downloads\SOS-master\caches\transforms-3\a133d9c082a2e80fa1ab6b37b76a17d9\transformed\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\Anshika Mishra\Downloads\SOS-master\caches\transforms-3\a133d9c082a2e80fa1ab6b37b76a17d9\transformed\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Anshika Mishra\Downloads\SOS-master\caches\transforms-3\437a61d5a759fb6b22a74e31458e46ab\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Anshika Mishra\Downloads\SOS-master\caches\transforms-3\437a61d5a759fb6b22a74e31458e46ab\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Anshika Mishra\Downloads\SOS-master\caches\transforms-3\e2fee6da71c75fe0984a6cb3a5f788d0\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Anshika Mishra\Downloads\SOS-master\caches\transforms-3\e2fee6da71c75fe0984a6cb3a5f788d0\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Anshika Mishra\Downloads\SOS-master\caches\transforms-3\9eb5f25ee3f43ca011a7f35f87e62091\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Anshika Mishra\Downloads\SOS-master\caches\transforms-3\9eb5f25ee3f43ca011a7f35f87e62091\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Anshika Mishra\Downloads\SOS-master\caches\transforms-3\60ad569df56af28e94c5ee2facee010c\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Anshika Mishra\Downloads\SOS-master\caches\transforms-3\60ad569df56af28e94c5ee2facee010c\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\Anshika Mishra\Downloads\SOS-master\caches\transforms-3\faf5a5fe40a282b53c7c9dd17846c5d5\transformed\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\Anshika Mishra\Downloads\SOS-master\caches\transforms-3\faf5a5fe40a282b53c7c9dd17846c5d5\transformed\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:20:5-22:41
+INJECTED from C:\Users\Anshika Mishra\Downloads\SOS-master\SOS-master\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Anshika Mishra\Downloads\SOS-master\SOS-master\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Anshika Mishra\Downloads\SOS-master\SOS-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Anshika Mishra\Downloads\SOS-master\SOS-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Anshika Mishra\Downloads\SOS-master\SOS-master\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Anshika Mishra\Downloads\SOS-master\SOS-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Anshika Mishra\Downloads\SOS-master\SOS-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Anshika Mishra\Downloads\SOS-master\SOS-master\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\Anshika Mishra\Downloads\SOS-master\caches\transforms-3\2232fd768aa7f3c4de3cd890ebdd1c0c\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-database:20.0.2] C:\Users\Anshika Mishra\Downloads\SOS-master\caches\transforms-3\c1e3aca7acc6315254254caf9e46b84c\transformed\jetified-firebase-database-20.0.2\AndroidManifest.xml:26:5-67
+MERGED from [com.google.firebase:firebase-database:20.0.2] C:\Users\Anshika Mishra\Downloads\SOS-master\caches\transforms-3\c1e3aca7acc6315254254caf9e46b84c\transformed\jetified-firebase-database-20.0.2\AndroidManifest.xml:26:5-67
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\Anshika Mishra\Downloads\SOS-master\caches\transforms-3\2232fd768aa7f3c4de3cd890ebdd1c0c\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:23:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\Anshika Mishra\Downloads\SOS-master\caches\transforms-3\2232fd768aa7f3c4de3cd890ebdd1c0c\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-database:20.0.2] C:\Users\Anshika Mishra\Downloads\SOS-master\caches\transforms-3\c1e3aca7acc6315254254caf9e46b84c\transformed\jetified-firebase-database-20.0.2\AndroidManifest.xml:25:5-79
+MERGED from [com.google.firebase:firebase-database:20.0.2] C:\Users\Anshika Mishra\Downloads\SOS-master\caches\transforms-3\c1e3aca7acc6315254254caf9e46b84c\transformed\jetified-firebase-database-20.0.2\AndroidManifest.xml:25:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\Anshika Mishra\Downloads\SOS-master\caches\transforms-3\2232fd768aa7f3c4de3cd890ebdd1c0c\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:24:22-76
+activity#com.google.firebase.auth.internal.GenericIdpActivity
+ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\Anshika Mishra\Downloads\SOS-master\caches\transforms-3\2232fd768aa7f3c4de3cd890ebdd1c0c\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:27:9-44:20
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\Anshika Mishra\Downloads\SOS-master\caches\transforms-3\2232fd768aa7f3c4de3cd890ebdd1c0c\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:29:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\Anshika Mishra\Downloads\SOS-master\caches\transforms-3\2232fd768aa7f3c4de3cd890ebdd1c0c\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:31:13-44
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\Anshika Mishra\Downloads\SOS-master\caches\transforms-3\2232fd768aa7f3c4de3cd890ebdd1c0c\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:30:13-36
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\Anshika Mishra\Downloads\SOS-master\caches\transforms-3\2232fd768aa7f3c4de3cd890ebdd1c0c\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:32:13-72
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\Anshika Mishra\Downloads\SOS-master\caches\transforms-3\2232fd768aa7f3c4de3cd890ebdd1c0c\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:28:13-80
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:firebase.auth+data:path:/+data:scheme:genericidp
+ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\Anshika Mishra\Downloads\SOS-master\caches\transforms-3\2232fd768aa7f3c4de3cd890ebdd1c0c\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:33:13-43:29
+action#android.intent.action.VIEW
+ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\Anshika Mishra\Downloads\SOS-master\caches\transforms-3\2232fd768aa7f3c4de3cd890ebdd1c0c\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:34:17-69
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\Anshika Mishra\Downloads\SOS-master\caches\transforms-3\2232fd768aa7f3c4de3cd890ebdd1c0c\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:34:25-66
+category#android.intent.category.DEFAULT
+ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\Anshika Mishra\Downloads\SOS-master\caches\transforms-3\2232fd768aa7f3c4de3cd890ebdd1c0c\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:36:17-76
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\Anshika Mishra\Downloads\SOS-master\caches\transforms-3\2232fd768aa7f3c4de3cd890ebdd1c0c\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:36:27-73
+category#android.intent.category.BROWSABLE
+ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\Anshika Mishra\Downloads\SOS-master\caches\transforms-3\2232fd768aa7f3c4de3cd890ebdd1c0c\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:37:17-78
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\Anshika Mishra\Downloads\SOS-master\caches\transforms-3\2232fd768aa7f3c4de3cd890ebdd1c0c\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:37:27-75
+data
+ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\Anshika Mishra\Downloads\SOS-master\caches\transforms-3\2232fd768aa7f3c4de3cd890ebdd1c0c\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:39:17-42:51
+	android:path
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\Anshika Mishra\Downloads\SOS-master\caches\transforms-3\2232fd768aa7f3c4de3cd890ebdd1c0c\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:41:21-37
+	android:host
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\Anshika Mishra\Downloads\SOS-master\caches\transforms-3\2232fd768aa7f3c4de3cd890ebdd1c0c\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:40:21-49
+	android:scheme
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\Anshika Mishra\Downloads\SOS-master\caches\transforms-3\2232fd768aa7f3c4de3cd890ebdd1c0c\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:42:21-48
+activity#com.google.firebase.auth.internal.RecaptchaActivity
+ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\Anshika Mishra\Downloads\SOS-master\caches\transforms-3\2232fd768aa7f3c4de3cd890ebdd1c0c\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:45:9-62:20
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\Anshika Mishra\Downloads\SOS-master\caches\transforms-3\2232fd768aa7f3c4de3cd890ebdd1c0c\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:47:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\Anshika Mishra\Downloads\SOS-master\caches\transforms-3\2232fd768aa7f3c4de3cd890ebdd1c0c\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:49:13-44
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\Anshika Mishra\Downloads\SOS-master\caches\transforms-3\2232fd768aa7f3c4de3cd890ebdd1c0c\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:48:13-36
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\Anshika Mishra\Downloads\SOS-master\caches\transforms-3\2232fd768aa7f3c4de3cd890ebdd1c0c\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:50:13-72
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\Anshika Mishra\Downloads\SOS-master\caches\transforms-3\2232fd768aa7f3c4de3cd890ebdd1c0c\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:46:13-79
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:firebase.auth+data:path:/+data:scheme:recaptcha
+ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\Anshika Mishra\Downloads\SOS-master\caches\transforms-3\2232fd768aa7f3c4de3cd890ebdd1c0c\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:51:13-61:29
+service#com.google.firebase.auth.api.fallback.service.FirebaseAuthFallbackService
+ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\Anshika Mishra\Downloads\SOS-master\caches\transforms-3\2232fd768aa7f3c4de3cd890ebdd1c0c\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:64:9-73:19
+	android:enabled
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\Anshika Mishra\Downloads\SOS-master\caches\transforms-3\2232fd768aa7f3c4de3cd890ebdd1c0c\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:66:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\Anshika Mishra\Downloads\SOS-master\caches\transforms-3\2232fd768aa7f3c4de3cd890ebdd1c0c\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:67:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\Anshika Mishra\Downloads\SOS-master\caches\transforms-3\2232fd768aa7f3c4de3cd890ebdd1c0c\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:65:13-101
+intent-filter#action:name:com.google.firebase.auth.api.gms.service.START+category:name:android.intent.category.DEFAULT
+ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\Anshika Mishra\Downloads\SOS-master\caches\transforms-3\2232fd768aa7f3c4de3cd890ebdd1c0c\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:68:13-72:29
+action#com.google.firebase.auth.api.gms.service.START
+ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\Anshika Mishra\Downloads\SOS-master\caches\transforms-3\2232fd768aa7f3c4de3cd890ebdd1c0c\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:69:17-89
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\Anshika Mishra\Downloads\SOS-master\caches\transforms-3\2232fd768aa7f3c4de3cd890ebdd1c0c\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:69:25-86
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\Anshika Mishra\Downloads\SOS-master\caches\transforms-3\2232fd768aa7f3c4de3cd890ebdd1c0c\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:74:9-80:19
+MERGED from [com.google.firebase:firebase-database:20.0.2] C:\Users\Anshika Mishra\Downloads\SOS-master\caches\transforms-3\c1e3aca7acc6315254254caf9e46b84c\transformed\jetified-firebase-database-20.0.2\AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.firebase:firebase-database:20.0.2] C:\Users\Anshika Mishra\Downloads\SOS-master\caches\transforms-3\c1e3aca7acc6315254254caf9e46b84c\transformed\jetified-firebase-database-20.0.2\AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.firebase:firebase-common:20.0.0] C:\Users\Anshika Mishra\Downloads\SOS-master\caches\transforms-3\136a138062b560fc808fa24336345cc1\transformed\jetified-firebase-common-20.0.0\AndroidManifest.xml:33:9-37:35
+MERGED from [com.google.firebase:firebase-common:20.0.0] C:\Users\Anshika Mishra\Downloads\SOS-master\caches\transforms-3\136a138062b560fc808fa24336345cc1\transformed\jetified-firebase-common-20.0.0\AndroidManifest.xml:33:9-37:35
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\Anshika Mishra\Downloads\SOS-master\caches\transforms-3\2232fd768aa7f3c4de3cd890ebdd1c0c\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:76:13-37
+	tools:targetApi
+		ADDED from [com.google.firebase:firebase-common:20.0.0] C:\Users\Anshika Mishra\Downloads\SOS-master\caches\transforms-3\136a138062b560fc808fa24336345cc1\transformed\jetified-firebase-common-20.0.0\AndroidManifest.xml:37:13-32
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:20.0.0] C:\Users\Anshika Mishra\Downloads\SOS-master\caches\transforms-3\136a138062b560fc808fa24336345cc1\transformed\jetified-firebase-common-20.0.0\AndroidManifest.xml:35:13-43
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\Anshika Mishra\Downloads\SOS-master\caches\transforms-3\2232fd768aa7f3c4de3cd890ebdd1c0c\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:75:13-84
+meta-data#com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar
+ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\Anshika Mishra\Downloads\SOS-master\caches\transforms-3\2232fd768aa7f3c4de3cd890ebdd1c0c\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:77:13-79:85
+	android:value
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\Anshika Mishra\Downloads\SOS-master\caches\transforms-3\2232fd768aa7f3c4de3cd890ebdd1c0c\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:79:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\Anshika Mishra\Downloads\SOS-master\caches\transforms-3\2232fd768aa7f3c4de3cd890ebdd1c0c\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:78:17-109
+meta-data#com.google.firebase.components:com.google.firebase.database.DatabaseRegistrar
+ADDED from [com.google.firebase:firebase-database:20.0.2] C:\Users\Anshika Mishra\Downloads\SOS-master\caches\transforms-3\c1e3aca7acc6315254254caf9e46b84c\transformed\jetified-firebase-database-20.0.2\AndroidManifest.xml:32:13-34:85
+	android:value
+		ADDED from [com.google.firebase:firebase-database:20.0.2] C:\Users\Anshika Mishra\Downloads\SOS-master\caches\transforms-3\c1e3aca7acc6315254254caf9e46b84c\transformed\jetified-firebase-database-20.0.2\AndroidManifest.xml:34:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-database:20.0.2] C:\Users\Anshika Mishra\Downloads\SOS-master\caches\transforms-3\c1e3aca7acc6315254254caf9e46b84c\transformed\jetified-firebase-database-20.0.2\AndroidManifest.xml:33:17-109
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.5.0] C:\Users\Anshika Mishra\Downloads\SOS-master\caches\transforms-3\6f457fa9b50c83a779ad5d6d4a27ba05\transformed\jetified-play-services-base-17.5.0\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.5.0] C:\Users\Anshika Mishra\Downloads\SOS-master\caches\transforms-3\6f457fa9b50c83a779ad5d6d4a27ba05\transformed\jetified-play-services-base-17.5.0\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.5.0] C:\Users\Anshika Mishra\Downloads\SOS-master\caches\transforms-3\6f457fa9b50c83a779ad5d6d4a27ba05\transformed\jetified-play-services-base-17.5.0\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.5.0] C:\Users\Anshika Mishra\Downloads\SOS-master\caches\transforms-3\6f457fa9b50c83a779ad5d6d4a27ba05\transformed\jetified-play-services-base-17.5.0\AndroidManifest.xml:24:13-79
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:20.0.0] C:\Users\Anshika Mishra\Downloads\SOS-master\caches\transforms-3\136a138062b560fc808fa24336345cc1\transformed\jetified-firebase-common-20.0.0\AndroidManifest.xml:26:9-31:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:20.0.0] C:\Users\Anshika Mishra\Downloads\SOS-master\caches\transforms-3\136a138062b560fc808fa24336345cc1\transformed\jetified-firebase-common-20.0.0\AndroidManifest.xml:28:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:20.0.0] C:\Users\Anshika Mishra\Downloads\SOS-master\caches\transforms-3\136a138062b560fc808fa24336345cc1\transformed\jetified-firebase-common-20.0.0\AndroidManifest.xml:30:13-37
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:20.0.0] C:\Users\Anshika Mishra\Downloads\SOS-master\caches\transforms-3\136a138062b560fc808fa24336345cc1\transformed\jetified-firebase-common-20.0.0\AndroidManifest.xml:29:13-43
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:20.0.0] C:\Users\Anshika Mishra\Downloads\SOS-master\caches\transforms-3\136a138062b560fc808fa24336345cc1\transformed\jetified-firebase-common-20.0.0\AndroidManifest.xml:31:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:20.0.0] C:\Users\Anshika Mishra\Downloads\SOS-master\caches\transforms-3\136a138062b560fc808fa24336345cc1\transformed\jetified-firebase-common-20.0.0\AndroidManifest.xml:27:13-77
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:17.5.0] C:\Users\Anshika Mishra\Downloads\SOS-master\caches\transforms-3\c46465ef2c6ab12be4e197765cec2e91\transformed\jetified-play-services-basement-17.5.0\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:17.5.0] C:\Users\Anshika Mishra\Downloads\SOS-master\caches\transforms-3\c46465ef2c6ab12be4e197765cec2e91\transformed\jetified-play-services-basement-17.5.0\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:17.5.0] C:\Users\Anshika Mishra\Downloads\SOS-master\caches\transforms-3\c46465ef2c6ab12be4e197765cec2e91\transformed\jetified-play-services-basement-17.5.0\AndroidManifest.xml:24:13-58
